@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CABDE5BB-195A-4872-8E73-7E9853B8FFBC}|Default">
+  <MonoDevelop.Ide.ItemProperties.winforms-kernai PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KernaiGui.fs">
+    <Files>
+      <File FileName="KernaiGui.fs" Line="127" Column="13" />
+      <File FileName="readme.txt" Line="20" Column="50" />
+      <File FileName="Program.fs" Line="1" Column="1" />
+      <File FileName="DatabaseFunctions.fs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="winforms-kernai" expanded="True">
+            <Node name="winforms-kernai" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="KernaiGui.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
